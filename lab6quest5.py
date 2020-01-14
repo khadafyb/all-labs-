@@ -1,0 +1,5 @@
+x=input("enter a word")
+x.replace('b','bub')
+x.replace('c','cash')
+x.replace('d', 'dud')
+print(x)
